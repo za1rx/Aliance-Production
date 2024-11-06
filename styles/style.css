@@ -1056,11 +1056,11 @@
     display: none;
 }
 
-.our-experts__slider .swiper-slide:nth-child(odd){
+.swiper .swiper-slide:nth-child(odd){
     background: url(../images/pexels-tima-miroshnichenko-9574410\ 2\ \(1\).png) center no-repeat;
 }
 
-.our-experts__slider .swiper-slide:nth-child(even){
+.swiper .swiper-slide:nth-child(even){
     background: url(../images/pexels-pixabay-208661\ 1.png) center no-repeat;
 }
 
